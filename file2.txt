@@ -1,4 +1,6 @@
 Este es el 2do archivo de prueba con git.
 Estoy haciendo prueba todavía en git local sin 
-subirlo a GitHub
-Esta es la 4ta línea actualizada del file2
+Linea 3 del file2
+Linea 4 del file2
+
+
