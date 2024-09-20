@@ -1,2 +1,0 @@
-Este es el file 3
-Linea 2 del file3
