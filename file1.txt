@@ -1,3 +1,2 @@
 Primer archivo usando git.
 Esto es una linea 2 del file1
-Esta ela 3ra línea actualizada del file1
